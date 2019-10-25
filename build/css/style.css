@@ -1,0 +1,17 @@
+table {
+  display: inline-block;
+  border-collapse: collapse;
+}
+
+table td,
+table th {
+  width: 200px;
+
+  border: 1px solid #000000;
+  text-align: center;
+  vertical-align: top;
+}
+
+button {
+  vertical-align: top;
+}
